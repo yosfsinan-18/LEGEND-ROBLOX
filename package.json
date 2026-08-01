@@ -1,0 +1,10 @@
+{
+  "name": "legend-roblox-server",
+  "version": "1.0.0",
+  "description": "Key System Server for LEGEND",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
